@@ -1,0 +1,91 @@
+body {
+   text-align: center; 
+}
+
+
+main {    
+    
+    padding-bottom: 200px;
+}
+
+.start, a{
+    
+    color: #4B9CE7;
+    background-color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 10px;
+    width: 250px;
+    height: 50px;
+    margin-top: 600px;
+    text-decoration: none;   
+}
+
+.start:hover {
+    opacity: 0.7;
+}
+
+
+section {
+    
+    background-color: #4B9CE7;
+    padding: 10px 10px 10px 10px;
+    margin: -97px auto auto auto;
+    max-width: 328px;    
+}
+
+
+
+
+.signup {    
+    font-weight: bold;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+    background-color: #4B9CE7;
+    
+}
+
+.signup:hover {
+    opacity: 0.5;
+}
+
+
+footer {
+    
+    background-color: #4B9CE7;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    margin-top: 1px;
+    max-width: 328px; 
+}
+
+
+#user {
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    background-color: #4B9CE7;
+   
+}
+
+#user:hover {
+    opacity: 0.5;
+}
+
+
+#story1, #story2, #story3 {
+    display: none;
+    padding: 20px 20px 20px 20px;
+}
+
+#stories {
+    margin: 1px auto auto auto;
+    
+    background-color: #4B9CE7;
+    max-width: 700px;
+}
+
